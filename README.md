@@ -26,8 +26,8 @@ Hello! During the World Cup season, I developed a script that extracts data from
 
 Ensure you have the required libraries installed. Run the following command in your terminal:
 
-```bash
-pip install -r requirements.txt```
-
+```
+pip install -r requirements.txt
+```
 
 Getting better every day to deliver the best results! I hope you enjoy this project. 🏆 | *Pythonic Effort*
